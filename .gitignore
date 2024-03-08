@@ -2,3 +2,5 @@ Part_1/
 Part_2/
 separate_files.txt
 .ipynb_checkpoints/
+*.svg
+*.png
