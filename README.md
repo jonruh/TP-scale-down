@@ -1,6 +1,6 @@
 # TP-scale-down
 
-Data files and computer code for analysis of scale-down fermentation experiments of a tryptophan producing E. coli strain. Supplemented to Ph.D. thesis "Strategies and tools to select E. coli fermenterphiles for industrial application". Large data files are separately available at ...
+Data files and computer code for analysis of scale-down fermentation experiments of a tryptophan producing E. coli strain. Supplemented to Ph.D. thesis "Strategies and tools to select E. coli fermenterphiles for industrial application". Large data files are separately available at https://doi.org/10.6084/m9.figshare.25367122.v1.
 
 Large separate files must be place in the following paths:
 - data\ica_data\ecoli_p1k.json
