@@ -1,19 +1,13 @@
-	LibraryLayout	Platform	Run	R1	R2	passed_fastqc	passed_reads_mapped_to_CDS	passed_global_correlation
-PD_117_R11	PAIRED	DNBSEQ		PD_117_R11_S05#_1.fq.gz	PD_117_R11_S05#_2.fq.gz	True	True	True
-PD_117_R12	PAIRED	DNBSEQ		PD_117_R12_S05#_1.fq.gz	PD_117_R12_S05#_2.fq.gz	True	True	True
-PD_117_R13	PAIRED	DNBSEQ		PD_117_R13_S05#_1.fq.gz	PD_117_R13_S05#_2.fq.gz	True	True	True
-PD_117_R14	PAIRED	DNBSEQ		PD_117_R14_S05#_1.fq.gz	PD_117_R14_S05#_2.fq.gz	True	True	True
-PD_117_R15	PAIRED	DNBSEQ		PD_117_R15_S05#_1.fq.gz	PD_117_R15_S05#_2.fq.gz	True	True	True
-PD_117_R16	PAIRED	DNBSEQ		PD_117_R16_S05#_1.fq.gz	PD_117_R16_S05#_2.fq.gz	True	True	True
-PD_126_R5	PAIRED	DNBSEQ		PD_126_R5_S1_1.fq.gz	PD_126_R5_S1_2.fq.gz	True	True	True
-PD_126_R6	PAIRED	DNBSEQ		PD_126_R6_S1_1.fq.gz	PD_126_R6_S1_2.fq.gz	True	True	True
-PD_126_R7	PAIRED	DNBSEQ		PD_126_R7_S1_1.fq.gz	PD_126_R7_S1_2.fq.gz	True	True	True
-PD_126_R8	PAIRED	DNBSEQ		PD_126_R8_S1_1.fq.gz	PD_126_R8_S1_2.fq.gz	True	True	True
-PD_126_R9	PAIRED	DNBSEQ		PD_126_R9_S1_1.fq.gz	PD_126_R9_S1_2.fq.gz	True	True	True
-PD_126_R10	PAIRED	DNBSEQ		PD_126_R10_S1_1.fq.gz	PD_126_R10_S1_2.fq.gz	True	True	True
-PD_126_R11	PAIRED	DNBSEQ		PD_126_R11_S1_1.fq.gz	PD_126_R11_S1_2.fq.gz	True	True	True
-PD_126_R12	PAIRED	DNBSEQ		PD_126_R12_S1_1.fq.gz	PD_126_R12_S1_2.fq.gz	True	True	True
-PD_126_R13	PAIRED	DNBSEQ		PD_126_R13_S1_1.fq.gz	PD_126_R13_S1_2.fq.gz	True	True	True
-PD_126_R14	PAIRED	DNBSEQ		PD_126_R14_S1_1.fq.gz	PD_126_R14_S1_2.fq.gz	True	True	True
-PD_126_R15	PAIRED	DNBSEQ		PD_126_R15_S1_1.fq.gz	PD_126_R15_S1_2.fq.gz	True	True	True
-PD_126_R16	PAIRED	DNBSEQ		PD_126_R16_S1_1.fq.gz	PD_126_R16_S1_2.fq.gz	True	True	True
+	LibraryLayout	Platform	Run	R1	R2	project	condition	strain_ID	process_condition	experiment_run	strain_name	reference_condition	passed_fastqc	passed_reads_mapped_to_CDS	passed_global_correlation
+PD_117_R10_S05#	PAIRED	DNBSEQ		PD_117_R10_S05#_1.fq.gz	PD_117_R10_S05#_2.fq.gz	Trp_scale-down	DDB35_scale-down	DDB35	scale-down	DDB_117	WT	DDB35_control	True	True	True
+PD_117_R11_S05#	PAIRED	DNBSEQ		PD_117_R11_S05#_1.fq.gz	PD_117_R11_S05#_2.fq.gz	Trp_scale-down	HMP3071_control	HMP3071	control	DDB_117	TP	DDB35_control	True	True	True
+PD_117_R12_S05#	PAIRED	DNBSEQ		PD_117_R12_S05#_1.fq.gz	PD_117_R12_S05#_2.fq.gz	Trp_scale-down	HMP3071_control	HMP3071	control	DDB_117	TP	DDB35_control	True	True	True
+PD_117_R13_S05#	PAIRED	DNBSEQ		PD_117_R13_S05#_1.fq.gz	PD_117_R13_S05#_2.fq.gz	Trp_scale-down	HMP3071_control	HMP3071	control	DDB_117	TP	DDB35_control	True	True	True
+PD_117_R14_S05#	PAIRED	DNBSEQ		PD_117_R14_S05#_1.fq.gz	PD_117_R14_S05#_2.fq.gz	Trp_scale-down	HMP3071_scale-down	HMP3071	scale-down	DDB_117	TP	DDB35_control	True	True	True
+PD_117_R15_S05#	PAIRED	DNBSEQ		PD_117_R15_S05#_1.fq.gz	PD_117_R15_S05#_2.fq.gz	Trp_scale-down	HMP3071_scale-down	HMP3071	scale-down	DDB_117	TP	DDB35_control	True	True	True
+PD_117_R16_S05#	PAIRED	DNBSEQ		PD_117_R16_S05#_1.fq.gz	PD_117_R16_S05#_2.fq.gz	Trp_scale-down	HMP3071_scale-down	HMP3071	scale-down	DDB_117	TP	DDB35_control	True	True	True
+PD_117_R5_S05#1	PAIRED	DNBSEQ		PD_117_R5_S05#1_1.fq.gz	PD_117_R5_S05#1_2.fq.gz	Trp_scale-down	DDB35_control	DDB35	control	DDB_117	WT	DDB35_control	True	True	True
+PD_117_R6_S05#1	PAIRED	DNBSEQ		PD_117_R6_S05#1_1.fq.gz	PD_117_R6_S05#1_2.fq.gz	Trp_scale-down	DDB35_control	DDB35	control	DDB_117	WT	DDB35_control	True	True	True
+PD_117_R7_S05#1	PAIRED	DNBSEQ		PD_117_R7_S05#1_1.fq.gz	PD_117_R7_S05#1_2.fq.gz	Trp_scale-down	DDB35_control	DDB35	control	DDB_117	WT	DDB35_control	True	True	True
+PD_117_R8_S05#1	PAIRED	DNBSEQ		PD_117_R8_S05#1_1.fq.gz	PD_117_R8_S05#1_2.fq.gz	Trp_scale-down	DDB35_scale-down	DDB35	scale-down	DDB_117	WT	DDB35_control	True	True	True
+PD_117_R9_S05#1	PAIRED	DNBSEQ		PD_117_R9_S05#1_1.fq.gz	PD_117_R9_S05#1_2.fq.gz	Trp_scale-down	DDB35_scale-down	DDB35	scale-down	DDB_117	WT	DDB35_control	True	True	True
