@@ -13,13 +13,13 @@ logtpmData <- t(scale(t(logtpmData)))
 p <- pca(logtpmData,metadata = MetaData, removeVar = 0.1)
 
 biplot(p,
-       x = 'PC2',
+       x = 'PC1',
        y = 'PC3',
        ntopLoadings = 5,fillBoxedLoadings = "white",widthLoadingsArrows = 1.0,drawConnectorsLoadings = TRUE,
        sizeLoadingsNames = 5.0,
        borderWidth = 1.0,gridlines.minor = FALSE,gridlines.major = FALSE,vlineWidth = 1,hlineWidth = 1,
-       colby = "process_condition",
-       shape = "experiment_run",
+       colby = "strain_ID",
+       shape = "process_condition",
        hline = 0,
        vline = 0,
        legendPosition = "right",borderColour = "black",
