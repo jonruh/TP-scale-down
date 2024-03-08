@@ -9,4 +9,11 @@ Large separate files must be place in the following paths:
 - data_processing\fermentation_data\DDB_PD_117_AMBR_online_data_export.csv
 
 # Requirements
-- 
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
+- pymodulon
+- mpl_toolkits
+- warnings
